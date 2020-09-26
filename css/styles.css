@@ -113,3 +113,8 @@ footer {
   text-align: center;
 
 }
+
+.features .container {
+  width: 800px;
+  margin: 0 auto;
+}
